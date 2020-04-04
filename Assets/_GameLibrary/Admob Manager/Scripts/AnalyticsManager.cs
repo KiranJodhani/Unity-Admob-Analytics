@@ -55,7 +55,7 @@ public class AnalyticsManager : MonoBehaviour
         //DateTime theTime = DateTime.Now;
         //string timeFormat = ">>TIME : " + theTime.ToString("HH:mm:ss");
         //string datetime = ">>DATE : " + theTime.ToString("yyyy-MM-dd") + timeFormat;
-        FirebaseAnalytics.LogEvent(bundle_id, screen_name,"PhotonGame");
+        FirebaseAnalytics.LogEvent(bundle_id, screen_name,"photon");
     }
 
 }
