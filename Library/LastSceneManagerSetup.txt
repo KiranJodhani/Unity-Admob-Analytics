@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_GameLibrary/Admob Manager/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

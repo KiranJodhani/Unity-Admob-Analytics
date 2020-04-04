@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "560592705739-sgk7q26qis289h3kkgl36rps622ha2cm.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYH8qRjUaNL7IGxw61Y4lKKTurkGLCZec"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:560592705739:ios:3013a1bf505aec9199a34e", 
+        "android_client_info": {
+          "package_name": "com.masterofmaths"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "photon-games-bf6e3.appspot.com", 
+    "project_id": "photon-games-bf6e3", 
+    "firebase_url": "https://photon-games-bf6e3.firebaseio.com", 
+    "project_number": "560592705739"
+  }
+}
