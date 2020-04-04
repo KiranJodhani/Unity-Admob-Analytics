@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D890D22A-AF47-0294-3978-410DCEE879AE}</ProjectGuid>
+    <ProjectGuid>{1ED6A94E-9560-9121-55A8-01F89D13DAD4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -78,37 +78,37 @@
     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_version-6.13.0_manifest.txt" />
     <None Include="Assets\GoogleMobileAds\Editor\GoogleMobileAdsDependencies.xml" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity version 2019.2.21/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -306,49 +306,49 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.144">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.144.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.144.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.144">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.144.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.144.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.144">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.144.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.144.dll</HintPath>
     </Reference>
     <Reference Include="Google.UnityPackageManagerResolver_v1.2.144">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/ExternalDependencyManager/Editor/Google.UnityPackageManagerResolver_v1.2.144.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/ExternalDependencyManager/Editor/Google.UnityPackageManagerResolver_v1.2.144.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Compat">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
     </Reference>
     <Reference Include="Google.MiniJson">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Analytics">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.App">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Platform">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.TaskExtension">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Editor">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Assets/_GameLibrary/ServerManager/JSON/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Assets/_GameLibrary/ServerManager/JSON/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/kiran/Desktop/FirebaseAnalyticsDemo/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/kiran/Documents/Photon Games/AdmobAnalytics/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity version 2019.2.21/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -713,7 +713,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{84AF89F0-19C3-C3F3-19C1-12B1E9C4A179}</Project>
+      <Project>{41E5270C-BE15-E9E0-2A8A-76373C07E0AC}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
